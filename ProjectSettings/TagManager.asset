@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Ground Grow
+  - Ground2
+  - Wall Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Ground Grow
+  - Ground
+  - Ground2
+  - Wall Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground2
+    uniqueID: 2336639775
+    locked: 0
+  - name: Ground
+    uniqueID: 3907066119
+    locked: 0
+  - name: Wall Ground
+    uniqueID: 921596019
+    locked: 0
+  - name: Ground Grow
+    uniqueID: 2178229593
+    locked: 0
+  - name: Player
+    uniqueID: 3606673425
+    locked: 0
